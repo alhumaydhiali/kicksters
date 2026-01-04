@@ -1,0 +1,22 @@
+@font-face {
+font-family: "UKJCNK";
+font-style: normal;
+src: url(UKJCNK.ttf) format("ttf");
+font-display: auto;
+}
+
+body {
+font-family: "UKJCNK", cursive;
+text-align: center;
+}
+@font-face {
+font-family: "UKJCNK";
+font-style: normal;
+src: url(UKJCNK.ttf) format("ttf");
+font-display: auto;
+}
+
+body {
+font-family: "UKJCNK", cursive;
+text-align: center;
+}
